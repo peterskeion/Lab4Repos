@@ -25,4 +25,8 @@ public eat(){
 system.out.println("a duck can eat");
 }
 
+
+
+
+
 }
