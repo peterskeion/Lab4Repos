@@ -27,10 +27,4 @@ system.out.println("a duck can eat");
 
 
 
-
-
-
-
-
-
-}
+}}
